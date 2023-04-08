@@ -1,2 +1,2 @@
-Irony Dectection - Twitter Dataset without classified labels
+Sarcasm Dectection - Twitter Dataset without classified labels
 
