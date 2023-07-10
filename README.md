@@ -1,2 +1,4 @@
-Sarcasm Dectection - Twitter Dataset with classified labels
+Sarcasm Detection - Twitter Dataset with classified labels
 
+
+According to my paper, Sarcasm Sentiment Analysis, I introduced two major approaches, machine learning, and neural network, to conduct experiments. In order to get a hands-on experience with sentiment analysis, I used two neural network models, LSTM and Bert in the Python environment, to predict sarcasm sentiment. The datasets include train and test files extracted from Twitter and contained multi-labeled classifications: figurative, irony, sarcasm, and regular. The challenge I encountered during data training was the low accuracy rate on multi-labels and mixed categorization. In order to gain a higher f1 score, the experiment tried a merge method to integrate similar labels so in the Bert- transformer approach, the average accuracy reaches over 85 percent. The report gives details about each step of the experiment, data mining techniques, text analysis, and models’ application.
